@@ -1,6 +1,6 @@
 ## npm i formik yup
 
-## Live Demo -https://krisuformvalidation.netlify.app/
+## Live Demo -[https://krisuformvalidation.netlify.app/](https://amey-formvalidation.netlify.app/)
 
 formik we are using for form Handling 
 Yup we are using for Form Validation
